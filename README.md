@@ -1,5 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Todo app With Redux (no database)
 
+## Languages and Libraries Used
+- React
+- Material UI
+- Redux
+
+## Screenshot od the app
+![alt text](./Screenshot/todo-redux.PNG)
+
+---
 ## Available Scripts
 
 In the project directory, you can run:
