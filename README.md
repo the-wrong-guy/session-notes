@@ -6,7 +6,7 @@
 - Redux
 
 ## Screenshot od the app
-![alt text](./Screenshot/todo-redux.PNG)
+![Todo App](./Screenshot/todo-redux.PNG)
 
 ---
 ## Available Scripts
