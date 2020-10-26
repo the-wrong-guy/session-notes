@@ -67,10 +67,10 @@ const CreateNote = () =>{
     return(
         <div>
             <div>
-             <AppBar  position="sticky" color="primary">
+             <AppBar  position="sticky" style={{backgroundColor:"#000"}}>
                <Toolbar>
-                 <Typography variant="h6">
-                   Notes
+                 <Typography variant="h5">
+                   Temp Session Notes
                  </Typography>
                </Toolbar>
              </AppBar>
