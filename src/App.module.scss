@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.innerContainer {
+  margin-top: 64px;
+  height: calc(100vh - 64px);
+  position: relative;
+  width: 100%;
+  padding: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .innerContainer {
+    padding: 10px;
+  }
+}
