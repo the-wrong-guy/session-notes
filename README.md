@@ -1,12 +1,14 @@
-# Todo app With Redux (no database)
+# Session Notes
+Simple note taking web app, that uses no data base, the notes last till the tab is open
 
-## Languages and Libraries Used
+## Tech Stacks
 - React
 - Material UI
 - Redux
 
-## Screenshot od the app
-![Todo App](./Screenshot/todo-redux.PNG)
+## Live web app 👇
+
+[Session Notes](https://session-notes.netlify.app/)
 
 ---
 ## Available Scripts
